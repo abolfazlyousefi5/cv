@@ -17,7 +17,8 @@
 body {
   font-family: YBB;
   height: 100vh;
-  overflow-x: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 .navbar-brand a {
   color: white;
